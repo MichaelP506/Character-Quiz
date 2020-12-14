@@ -1,0 +1,170 @@
+h2 {
+text-align: center;
+}
+
+body {
+background-image: url(https://www.ssbwiki.com/images/thumb/8/86/SSBU-Battlefield.png/1200px-SSBU-Battlefield.png);
+background-repeat: no-repeat;
+background-size: 100%,100%;
+}
+
+div {
+  width: 250px;
+  border: 5px solid black;
+  margin: 10px;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightblue;
+}
+
+.go {
+font-size: 20px;
+}
+
+.scale {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+      margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+    
+}
+
+p {
+text-align: center;
+    font-size: 20px;
+}
+
+.speed {
+border: 3px solid black;
+}
+
+.fighter {
+border: 3px solid black;
+}
+
+.weapon {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cloudGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.ikeGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.lucinaGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.cptFalcon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.sonicGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.yoshiGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.kirbo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.samusGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.dhGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.mkGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.mmGif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+border: 0;
+}
+
+.error {
+font-weight: bold;
+    position:absolute;
+    width:300px;
+    bottom:0px;
+    right:25%;
+    left:50%;
+    margin-left:-150px;
+    color: red;
+}
+
+.character {
+font-weight: bold;
+      display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.count {
+font-weight: bold;
+    font-size: 20px;
+    color: yellow;
+}
